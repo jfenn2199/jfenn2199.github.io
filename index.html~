@@ -4,7 +4,7 @@
 		<title>jfenn2199.com</title>
 	</head>
 	<body>
-		<img align="right", src="blogheader.png">
+		<img class="banner", src="blogheader.png">
 		<br>
 		Coming Soon
 	</body>
